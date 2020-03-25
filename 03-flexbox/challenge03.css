@@ -5,7 +5,7 @@
 h1 {
   margin:1em 0 1em 0;
 }
-.container {
+.navbar {
   display: flex;
   box-sizing: border-box;
   border-top: solid lightgray;
@@ -28,5 +28,4 @@ h1 {
 }
 .btn {
   font-size: 20px;
-  /* margin: 0 auto; */
 }

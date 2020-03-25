@@ -62,18 +62,23 @@ Use the `@import` syntax for these components. So you'll end up having a `style.
 
 Recreate this dropdown menu using the hover pseudo class.
 
-![](https://media.giphy.com/media/bkhMA1ulLgR2u6BNQv/giphy.gif)
+![](https://camo.githubusercontent.com/27733f78a1906a3dcbadf1395b1cd9975bec36c1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f626b684d4131756c4c6752327536424e51762f67697068792e676966)
 
 ### Challenge 7
 
 This challenge will require the use of media queries.
 
-Follow these instructions:
-- Create a page with a full width and full height blue background
-- When the page is less than 600px make it have a red background
-- Create another HTML page.
-- At mobile view (less than 600px) have just one item in navbar, a logo (can just be a 50px by 50px circle) that's centre aligned and links somewhere.
-- At a bigger view make the navbar have 4 different links. Have the logo left aligned and 4 different links right aligned
+a. 
+- Create a page with a single `div` in the `body`, the div should be have a width of 100vw and a height of 100vh, it should also have a blue background
+- When the page is less than 600px in width make it have a red background
+
+b.
+- Create a page with a navbar, the navbar should extend the full width of the page and it should have a height of 50px, give it a border of 1px solid black so you can see it
+- At mobile view (less than 600px) have just one item in navbar; a logo (can just be a 50px by 50px circle) 
+- The logo should be horizontally and vertically centre aligned in the nav, it should also link somewhere (can just be google)
+- At a bigger view (more than 600px) make the navbar have 4 different links plus still displaying the logo, the links should have a font-size of 30px and have a left and right margin of 10px 
+- Make the logo left aligned and the 4 different links right aligned inside of the nav
+- It should look something like this https://youtu.be/ClDK4xpDlAY
 
 ### Challenge 8
 - Read through chapters 4 to 6 of the [interneting is hard documentation](https://internetingishard.com).
